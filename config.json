@@ -1,6 +1,6 @@
 {
     "captcha_service": "capmonster",
-    "captcha_api_key": "961019e64cd2bbf0fb4265f0874f71b2",
+    "captcha_api_key": "",
     "invite": "https://discord.com/invite/tYRdmxHPNN",
     "joinDelay": 3000,
     "useProxies": false,
